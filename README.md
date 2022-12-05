@@ -15,7 +15,8 @@
   </ul>
 </div>
 <h1>Resultado</h1>
-<img />
+<img width='900px' src='img/oneForAll.png' />
+<img width='900px' height='600px' src='img/excaliOneForAll.png' />
 <h1>Contato</h1>
 <div>
   <a href="https://www.linkedin.com/in/peterson-paganelli-1832b91b9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
